@@ -13,9 +13,9 @@ import yt_dlp
 from youtube_search import YoutubeSearch
 
 # ===== ENV VARIABLES (Render) =====
-API_ID = int(os.environ.get("API_ID"))
-API_HASH = os.environ.get("API_HASH")
-BOT_TOKEN = os.environ.get("BOT_TOKEN")
+API_ID = int(os.environ.get("30341298"))
+API_HASH = os.environ.get("e3b9fbe6daac7e45c554fa1ce5b6ea9e")
+BOT_TOKEN = os.environ.get("8291719430:AAEwzm5T5wzux2fss2_o5Gy2FX1Xm35DuHo")
 
 SESSION = "render_vc_bot"
 
